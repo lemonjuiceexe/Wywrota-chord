@@ -1,0 +1,2 @@
+# Wywrota chord
+A simple [Tamper monkey](https://www.tampermonkey.net/) script that removes the annoying login banner from [wywrota.pl](https://spiewnik.wywrota.pl) and allows the user to see full songs without logging in.
